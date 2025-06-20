@@ -1,7 +1,71 @@
-# Adamsanzhi
+# Hi there, I'm adamsanzz! 👋
 
-A sandbox project exploring automation workflows powered by **n8n**, **GPT-based tools**, and **containerized environments with Docker**. Built to experiment, optimize, and streamline smart integrations—while staying free and open-source friendly.
+Welcome to my GitHub profile. Here, you'll find my latest projects, experiments, and contributions in the world of automation, scripting, and beyond.
 
-🧩 Powered by curiosity  
-🛠️ Structured with Anaconda, Docker, and open frameworks  
-🤖 Automating with n8n and GPT Computer Assistant  
+---
+
+## 🚀 About Me
+
+I'm passionate about building powerful automation workflows, creative coding, and continuous learning. Whether it's streamlining daily tasks or exploring new tech stacks, I love to make things work smarter.
+
+---
+
+## 🛠️ Tech Stack
+
+- **Automation:** n8n, Playwright, and more
+- **Scripting:** JavaScript, Python, Shell
+- **CI/CD & DevOps:** GitHub Actions, Docker
+
+---
+
+## 📈 GitHub Stats
+
+![adamsanzz's GitHub stats](https://github-readme-stats.vercel.app/api?username=adamsanzz&show_icons=true&theme=radical)
+
+---
+
+## 🏆 Highlights
+
+- Open-source contributor
+- Automation enthusiast
+- Always learning something new
+
+---
+
+## 📫 Get in Touch
+
+Let's connect and collaborate!  
+<!-- Add your social links below -->
+
+---
+
+## 🌱 Current Focus
+
+- Automating social media processes (TikTok, IG, etc.)
+- Debugging and optimizing automation flows
+- Experimenting with AI & prompt engineering
+
+---
+
+## ✨ Featured Projects
+
+- [Project 1](#)
+- [Project 2](#)
+- [Project 3](#)
+
+---
+
+Thanks for stopping by! 🚀
+
+```
+
+---
+
+Untuk peribadikan lagi README ni, boleh bagi maklumat berikut?
+1. Profesi/kerjaya utama
+2. 3-5 kemahiran atau stack paling kuat
+3. Projek kegemaran (dengan link kalau ada)
+4. Link media sosial (LinkedIn, X/Twitter, dsb.)
+5. Apa-apa tagline/ayat unik nak ditambah?
+
+Bagi je maklumat ni, nanti aku update README bagi lagi padu!
