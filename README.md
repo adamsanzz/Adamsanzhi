@@ -61,11 +61,4 @@ Thanks for stopping by! 🚀
 
 ---
 
-Untuk peribadikan lagi README ni, boleh bagi maklumat berikut?
-1. Profesi/kerjaya utama
-2. 3-5 kemahiran atau stack paling kuat
-3. Projek kegemaran (dengan link kalau ada)
-4. Link media sosial (LinkedIn, X/Twitter, dsb.)
-5. Apa-apa tagline/ayat unik nak ditambah?
 
-Bagi je maklumat ni, nanti aku update README bagi lagi padu!
